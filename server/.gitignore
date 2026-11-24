@@ -1,0 +1,9 @@
+# Server Environment & Secrets
+.env
+.env.*
+*.env
+*.env.local
+node_modules/
+npm-debug.log*
+logs/
+*.log
